@@ -1,0 +1,9 @@
+
+			h1 {color:red}
+			p {color:green}
+			* {border:solid}
+.header{color:blue;background-color:orange;display:flex;justify-content:space-between}
+.menu{color:yellow;background-color:purple}
+.grid{display:flex;flex-wrap:wrap;justify-content:space-evenly}
+.item{color:pink}
+.footer{display:flex;justify-content:flex-end}
